@@ -2,6 +2,9 @@
 
 > This is a web app built with the financial api data that fetches the different companies listed at the major stock exchanges in USA, like NASDAQ and NYSE. The app fetches data from two different APIs , combines them and then outputs the data to the screen.
 
+##  Video Documentation
+
+[Video](./src/images/video1616425580.mp4)
 ## Live Version
 [Live Version](https://62050a196ea7b6135a63b494--adoring-goldberg-acd131.netlify.app/)
 ## Screenshots
@@ -9,12 +12,6 @@
 ![screenshot](./src/images/sn1.png)
 
 ![screenshot](./src/images/s2.png)
-
-### Desktop
-
-![screenshot](./src/asset/Screenshot3.png)
-
-![screenshot](./src/asset/Screenshot4.png)
 
 ## Built With
 
@@ -26,10 +23,6 @@
 - Webpack
 - Jest
 - tailwindcss
-
-## Online live link
-
-[Visit project online](https://covid19-metrics-thecodechaser.netlify.app)
 
 ## Getting Started
 

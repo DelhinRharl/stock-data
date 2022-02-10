@@ -8,7 +8,7 @@ const Home = (item) => {
 
     <div className="">
       <NavLink to={{ pathname: `/details/${ticker}` }}>
-        <div className="bg-[#0e128a] bg-gradient-to-r from-[#0e128a] to-[#01034d] w-full h-40 border-b-2 border-blue-800">
+        <div className="bg-[#0e128a] bg-gradient-to-r from-[#0e128a] to-[#01034d] w-full h-40 border-b-2 border-blue-800 p-4">
           <div className="text-[#F64C71] text-xl">
             {companyName}
           </div>
