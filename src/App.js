@@ -1,6 +1,5 @@
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
-import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import { fetchTable } from './redux/stocks';
 import HomeItems from './components/HomeItems';
