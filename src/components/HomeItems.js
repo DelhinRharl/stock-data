@@ -13,8 +13,10 @@ const HomeItems = () => {
   return (
     <div>
       <Header />
-      <input className="h-10 p-4 w-full bg-[#12115f] text-white  " type="text" placeholder="Search..." value={search} onChange={(e) => setSearch(e.target.value)} />
-      <div className="grid grid-cols-2  list-none">
+      <div className="flex justify-center rounded-3xl">
+        <input className="h-10 p-4 w-80 bg-[#3dc2ff] text-black placeholder:text-neutral-900 rounded-lg  " type="text" placeholder="Search..." value={search} onChange={(e) => setSearch(e.target.value)} />
+      </div>
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4  list-none">
         {companies.map((comName) => (
           <li key={comName.ticker}>
             <Home
