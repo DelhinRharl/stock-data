@@ -6,7 +6,7 @@
 
 [Video](https://drive.google.com/file/d/1-wqEW2AIMUOy1W0_-kTjYyX1YCuAXVjw/view?usp=sharing)
 ## Live Version
-[Live Version](https://62050a196ea7b6135a63b494--adoring-goldberg-acd131.netlify.app/)
+[Live Version](https://620bdb55ae52d72cdd34741f--adoring-goldberg-acd131.netlify.app/)
 ## Screenshots
 
 ![screenshot](./src/images/sn1.png)
